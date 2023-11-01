@@ -104,26 +104,29 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 
 ## Output:
+
+###input data:
 ![output](/Screenshot%20(147).png)
 
+###Profit prediction:
 ![output](/Screenshot%20(148).png)
 
-![output](/Screenshot%20(149).png)
-
-![output](/Screenshot%20(150).png)
-
-![output](/Screenshot%20(151).png)
-
+###Function output:
 ![output](/Screenshot%20(152).png)
 
+###Gradient descent:
 ![output](/Screenshot%20(153).png)
 
+###Cost function using Gradient Descent:
 ![output](/Screenshot%20(154).png)
 
+Linear Regression using Profit Prediction:
 ![output](/Screenshot%20(155).png)
 
+Profit Prediction for a population of 35000:
 ![output](/Screenshot%20(156).png)
 
+Profit Prediction for a population of 70000 :
 ![output](/Screenshot%20(157).png)
 
 
